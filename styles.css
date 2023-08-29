@@ -1,2 +1,41 @@
 
 /* Your CSS Code here. */
+.container{
+    width: 600px;
+border: 5px solid rgb(4,255,4);
+ background-color: rgb(41,0,0);
+ /* margin-top: 20px; */
+}
+.row{
+    border: 5px solid rgb(255,188,188);
+    height: 200px;
+    /* margin: 10px 0; */
+    
+}
+.col{
+    background-origin: 2px dotted rgb(38,38,43);
+}
+.r1-c1{
+    background-color: teal;
+    
+}
+.r1-c2{
+    background-color: thistle;
+   
+}
+.r2-c1{
+    background-color: tomato;
+    
+
+}
+.r2-c2{
+    background-color: turquoise;
+    display: grid;
+   
+}
+.r3-c1{
+    background-color:violet ;
+}
+.r3-c2{
+    background-color: yellowgreen;
+}
